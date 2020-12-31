@@ -2,10 +2,10 @@
   "name": "doc-renderer",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/doc-renderer.ssr.js",
-  "browser": "dist/doc-renderer.esm.js",
-  "module": "dist/doc-renderer.esm.js",
-  "unpkg": "dist/doc-renderer.min.js",
+  "main": "dist/doc-renderer-vue.ssr.js",
+  "browser": "dist/doc-renderer-vue.esm.js",
+  "module": "dist/doc-renderer-vue.esm.js",
+  "unpkg": "dist/doc-renderer-vue.min.js",
   "files": [
     "dist/*",
     "src/**/*.vue"
