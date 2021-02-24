@@ -1,6 +1,6 @@
 {
   "name": "doc-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/doc-renderer-vue.ssr.js",
   "browser": "dist/doc-renderer-vue.esm.js",
